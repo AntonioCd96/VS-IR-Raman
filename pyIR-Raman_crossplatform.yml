@@ -1,4 +1,4 @@
-name: pyRaman_IR
+name: pyIR-Raman
 channels:
   - defaults
 dependencies:
@@ -68,10 +68,10 @@ dependencies:
     - threadpoolctl==3.2.0
     - vadersentiment==3.3.2
     - mp-api==0.40.0
+    - notebook
     - mpcontribs-client
     - crystal-toolkit
     - dash
-    - emmet.core.summary
     - pymatgen
     - py3Dmol
     - nglview

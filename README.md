@@ -4,7 +4,7 @@ This repository contains the different applications with the aim of learning the
 
 You can use this set of notebooks by installing an environment or running them on noto.epfl
 
-All the logistical details for the environment creationg are stated below.
+All the logistical details for the environment creation are stated below.
 
 
 ## Conda Environment
@@ -15,7 +15,8 @@ Once installed, to activate the environment, please use `conda activate pyIR-Ram
 `python -m ipykernel install --user --name=pyIR-Raman`
 
 *Note-1: You are of course welcome to install any additional package to the aforementioned conda environment.*   
-*Note-2: The aforementioned setup has already been tested by the IR-Raman technical staff on Mac OS Sonoma 14.0, Ubuntu 22.04, and Windows 10.*
+*Note-2: The aforementioned setup has already been tested by the IR-Raman technical staff on Ubuntu 22.04, and Windows 10.*
+*Note-3: You can clone the github by executing this command: `git clone https://github.com/AntonioCd96/VS-IR-Raman`.*
 
 ## Dry-run Instructions
 
